@@ -19,8 +19,8 @@
 #include <ElegantOTA.h>
 
 // Replace with your network credentials
-const char* ssid = "Cosmin";
-const char* password = "sv11rusu";
+const char* ssid = "nume";
+const char* password = "parola";
 
 bool ledState = 0;
 const int ledPin = 2;
